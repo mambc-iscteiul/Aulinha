@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 obrigado por me aceitarem
 
 
 otário lentos de m****
+=======
+Olá pessoal!!!
+
+
+otário lentos de merda
+>>>>>>> 560cf80d0a31ff1174b48c55a524be9f472d689f
 
 lá
 
@@ -30,11 +37,17 @@ malta, para a proxima resolvam o vosso "conflito" mais atempadamente sff
 pq o objetivo dessta porra é ser interativo e nao esta bosta que esta aqui
 os melhores cumprimentos
 o vosso melhor elemento :) 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 560cf80d0a31ff1174b48c55a524be9f472d689f
 
 alexandre teste vai dar erro
 
 Ola :)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 560cf80d0a31ff1174b48c55a524be9f472d689f
