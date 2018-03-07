@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 otário lentos de merda
 
 lá
@@ -26,3 +27,11 @@ malta, para a proxima resolvam o vosso "conflito" mais atempadamente sff
 pq o objetivo dessta porra é ser interativo e nao esta bosta que esta aqui
 os melhores cumprimentos
 o vosso melhor elemento :) 
+=======
+
+alexandre teste vai dar erro
+
+Ola :)
+
+
+>>>>>>> b601bc7f80f6fbffcce777a2f185244d5519b799
